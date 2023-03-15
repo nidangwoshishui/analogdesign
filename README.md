@@ -1,0 +1,2 @@
+# analogdesign
+some tricks
